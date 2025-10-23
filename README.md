@@ -101,7 +101,6 @@ MIT License – see LICENSE file
 ## Contact
 
 **GitHub:** Mohammed-Mehedi-Masum  
-**Repository:** Customer-Churn-Prediction-With-Deployment (branch: my-new-branch)
 
 ---
 
