@@ -1,0 +1,4 @@
+scenario,improvement_pct,carbon_avoided_tonnes,assumptions
+low_1.5pct,1.5,147825,"Conservative scenario: 1.5% grid efficiency improvement from better forecasts. US grid baseline: 9.855M tonnes CO₂ from forecast errors (estimated). Calculation: 9.855M × 0.015 = 147,825 tonnes. Assumes 50% of US smart meters (35M devices) adopt the model."
+medium_3pct,3.0,295650,"Realistic scenario: 3.0% grid efficiency improvement. Based on research showing demand forecasting can reduce spinning reserves by 2-4%. Calculation: 9.855M × 0.03 = 295,650 tonnes. Assumes full deployment across US smart meters (70M devices) with utility integration."
+high_5pct,5.0,492750,"Optimistic scenario: 5.0% grid efficiency improvement. Achievable if forecasts enable aggressive reserve reduction and renewable integration optimization. Calculation: 9.855M × 0.05 = 492,750 tonnes. Assumes deployment + policy changes enabling deeper grid optimization."

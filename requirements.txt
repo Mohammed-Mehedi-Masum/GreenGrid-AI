@@ -1,0 +1,15 @@
+# Core dependencies for Green AI Pattern Predictor
+# HACK4EARTH Green AI Competition - 2025
+
+# Data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# MANDATORY: Carbon tracking for competition evidence
+codecarbon>=2.3.0
+
+# Note: CodeCarbon is required for verified carbon measurements
+# This ensures competition-grade accuracy and reproducibility
